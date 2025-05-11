@@ -12,7 +12,7 @@ Ushbu repozitoriyada mening HTML va CSS loyihalarim joylashgan. Har bir loyiha a
 
 | # | Loyiha nomi | Level | Texnologiyalar | Demo |
 |---|-------------|-------|----------------|------|
-| 1 | Landing Page | `beginner` | `HTML` `CSS` | [Demo](https://azyk747.github.io/html-css-projects/art-design/) |
+| 1 | Art Design | `beginner` | `HTML` `CSS` | [Demo](https://azyk747.github.io/html-css-projects/art-design/) |
 | 2 | ... | ... | ... | ... |
 
 ## 🚀 Ishga Tushurish
